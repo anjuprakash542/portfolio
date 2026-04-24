@@ -8,13 +8,11 @@ export default function AboutMe(){
             </h2> 
             <div className="mt-8 bg-gray-100 shadow-xl shadow-gray-700 text-gray-600 text-[1rem]  p-8 mx-auto font-semibold">
                 <p>
-                I’m Anju Prakash, a Full Stack Developer with a unique journey shaped by both teaching and technology. I began my career as an external faculty, teaching Nursing Informatics and Mathematics — experiences that refined my ability to communicate complex ideas clearly and effectively.
+                I’m Anju Prakash, currently working as a Project Officer in IT at Cochin Shipyard Limited. I began my career as an external faculty teaching Nursing Informatics and Mathematics, which strengthened my communication and problem-solving skills.
 
-Life threw unexpected challenges my way, leading to a difficult period of personal setbacks. But instead of letting those challenges define me, I chose to grow through them. I upskilled myself by completing a MERN Stack Full Stack Development course and transitioned into the tech industry with determination and focus.
+I transitioned into IT by completing a MERN Stack development program and gained over a year of experience at GreenFi, working with React.js, Next.js, TypeScript, and Node.js to build scalable web applications.
 
-Currently, I have over a year of experience at GreenFi, where I contribute to real-world web applications using modern technologies like React.js, Next.js, TypeScript, and Node.js. I specialize in building responsive, scalable, and user-friendly interfaces — with an eye for both performance and design.
-
-I believe resilience is a skill, just like coding — and both have shaped who I am today. My goal is to build technology that not only works, but makes life easier and more meaningful.
+In my current role, I support IT operations in a demanding environment, which has improved my troubleshooting ability, adaptability, and hands-on system understanding. I’m now looking to apply my combined development and operational IT experience in roles that require reliability, quick problem-solving, and system support.
 
                 </p>
             </div>

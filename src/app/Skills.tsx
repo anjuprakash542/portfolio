@@ -20,10 +20,17 @@ export default function Skills () {
 
     <ul className="flex flex-wrap justify-center md:justify-start items-center mt-6 gap-4 text-sm md:text-base">
       {[
+        "Software Installation & Configuration",
+        "Basic System Troubleshooting",
+        "Windows & Linux Environment (Basics)",
+        "Networking Fundamentals (TCP/IP, DNS, DHCP)",
+        "Basic Network Troubleshooting",
+        "Client-Server Architecture",
         "HTML",
         "CSS",
         "JavaScript",
         "TypeScript",
+        "C++",
         "React.js",
         "Next.js",
         "Tailwind CSS",
