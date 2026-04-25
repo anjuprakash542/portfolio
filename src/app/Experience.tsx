@@ -35,7 +35,7 @@ export default function Experience (){
                     {/* External Faculty Experience */}
                     <div className="bg-gray-100 rounded-xl shadow-md p-6 shadow-gray-700 text-gray-500 font-semibold">
                         <h3 className="text-xl font-bold text-blue-700">External Faculty</h3>
-                        <p className="text-sm text-gray-500">Aug 2022 – October 2023</p>
+                        <p className="text-sm text-gray-500">Aug 2021 – October 2023</p>
                         <ul className="list-disc list-inside mt-3 space-y-1 text-gray-700">
                                 <li>Taught Nursing Informatics and Mathematics to undergraduate students.</li>
                                 <li>Developed engaging, simplified lessons for non-technical learners.</li>
